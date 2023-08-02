@@ -78,9 +78,9 @@ Installation via cloned repository:
 
 ```
 $ git clone https://github.com/leescu/PD-DM.git
-$ cd NHGPM
+$ cd PD-DM
 ```
-Make sure that the unpacked folders are inside “python/” folder in NHGPM. Now you should be able to run the ipyn notebook or play with the python scripts!
+
 
 ## Details
 
