@@ -1,7 +1,7 @@
 Periodontitis and the risk of all-cause and cause-specific mortality among US adults with diabetes: A population-based cohort study
 ==============================
 
-This code is the details of the manuscript "eveloping a machine learning model for accurate nucleoside hydrogels prediction based on descriptors".
+This code is the details of the manuscript "Periodontitis and the risk of all-cause and cause-specific mortality among US adults with diabetes: A population-based cohort study".
 
 
 ## Table of Contents
